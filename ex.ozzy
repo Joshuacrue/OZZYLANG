@@ -1,0 +1,4 @@
+SHRED i=1 TO 5 AMP 1 THEN
+    SCREAM(i)
+END
+
