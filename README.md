@@ -2,11 +2,12 @@
 A command-line programming language inspired by heavy metal and Ozzy Osbourne. Built with Python, it lets you write .ozzy scripts that  summon chaos and play music in the terminal.
 
 KEYWORDS = [
+
   'Bless',        # instead of VAR (Ozzy famously bit a bat)
 
-  'AND',        # instead of AND (axe = guitar = joining sound)
-  'OR',       # instead of OR (mosh pits are chaotic choices)
-  'NOT',     # instead of NOT (negating = rejection = scream)
+  'AND',        # instead of AND 
+  'OR',       # instead of OR 
+  'NOT',     # instead of NOT 
 
 
   'cry',   # instead of IF
@@ -23,9 +24,9 @@ KEYWORDS = [
   'AMP',        # instead of STEP (amplifier steps/gain)
 
 
-  'blast',      # instead of WHILE (whirlwind tours)
+  'blast',      # instead of WHILE
 
-  'riff',       # instead of FUN (function = guitar solo)
+  'riff',       # instead of FUN +
 
 
   'THEN"    # instead of THEN
